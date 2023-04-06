@@ -70,7 +70,7 @@
 
 
  
-<a href="https://github.com/azdine-zahi/github-readme-activity-graph"><img alt="azdine-zahi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AHmed-Malik-benelkadi&bg_color=&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/azdine-zahi/github-readme-activity-graph"><img alt="azdine-zahi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=azdine-zahi&bg_color=&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 
 
